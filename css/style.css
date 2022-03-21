@@ -1,0 +1,32 @@
+#titulo {
+    display: grid;
+    justify-content: center;
+    padding: 50px;
+    margin: 35px;
+}
+#link {
+    display: flex;
+    justify-content: center;
+}
+#img{
+    display: flex;
+    justify-content: center;
+}
+#img2{
+    display:flex;
+    justify-content:left;
+
+}
+h1 {
+    font-size: 70px;
+    color: rgb(248, 248, 248);
+    
+}
+a {
+    font-size: 40px;
+color: rgb(255, 0, 0);
+}
+
+body {
+    background-image: url(https://blogdomiltonjung.files.wordpress.com/2018/04/kannemann.gif);
+  }
