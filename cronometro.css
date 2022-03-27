@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://ak.picdn.net/shutterstock/videos/31986238/thumb/1.jpg);
+}
+h1{
+    color: white;
+}
+div {
+    text-align: center;
+}
+
+button{
+    height: 3em;
+    width: 6.5em;
+    border: none;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
+.iniciar{
+    background-color: darkgreen;
+}
+.pausar{
+    background-color: blue;
+}
+.parar{
+    background-color: brown;
+}
